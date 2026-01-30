@@ -26,17 +26,13 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thekhrafid&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api.svg?username=thekhrafid&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=thekhrafid&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/svg?user=thekhrafid&theme=tokyonight" />
 </p>
 
 

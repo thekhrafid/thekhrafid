@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Rafid Hossen</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
 <p align="center">
   <a href="https://explorerafid.vercel.app" target="_blank">🌐 Portfolio</a> •
@@ -27,14 +27,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekhrafid&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thekhrafid&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekhrafid&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=thekhrafid&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
----
 
 ### 📫 Contact Me
 - 📱 Phone: **+880 1518-966974**

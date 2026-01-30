@@ -24,15 +24,16 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api.svg?username=thekhrafid&show_icons=true&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/thekhrafid?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/thekhrafid?label=Stars&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/svg?user=thekhrafid&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Next.js-black?style=for-the-badge" />
 </p>
 
 
